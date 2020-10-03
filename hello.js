@@ -1,1 +1,2 @@
-console.log('hello world!');
+const saudacao = require("./saudacao");
+console.log(saudacao("Hello World"));
